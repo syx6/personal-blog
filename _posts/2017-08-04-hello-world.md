@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "琛琛要滚蛋了"
+title: "黑哥手机网络为什么这么沙？"
 description: "The first 'Hello world' post for Simple Texture theme."
 #categories: [uncategorized]
 #tags: [random, jekyll]
 redirect_from:
   - /2018/08/04/
 ---
-离职原因：钱少事多
+未解之谜
