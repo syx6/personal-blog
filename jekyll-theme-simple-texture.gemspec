@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-simple-texture"
   spec.version       = "0.1.6"
-  spec.authors       = ["Yi Zeng"]
+  spec.authors       = ["siyu Xia"]
   spec.email         = ["syxbestmayer@whu.edu.cn"]
 
   spec.summary       = %q{A gem-based responsive simple texture styled Jekyll theme.}
