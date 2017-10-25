@@ -1,6 +1,8 @@
 ---
 title: "python-programming"
 description: "daily bioinformatics scripts"
+categories: "scripts"
+tags: "bioinformatics"
 categories: [scripts]
 tags: [bioinformatics]
 redirect_from:
