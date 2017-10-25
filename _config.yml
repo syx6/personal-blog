@@ -26,11 +26,11 @@ baseurl: # the subpath of your site, e.g. /blog
 title: Simple Texture
 description: "A personal blog by siyu"
 keywords: 'jekyll,theme,gem-based,blog'
-author:
-  name:
-  job_title:
-  location:
-  email:
+author: "siyu Xia"
+  name: "siyu"
+  job_title: "doctor"
+  location: "Wuhan"
+  email:"syxbestmayer@whu.edu.cn"
   social_links:
     - name: facebook
       url:
